@@ -1,9 +1,8 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import pandas as pd
-from dateutil import parser
 from datetime import datetime
-import os, re, time
+import re, time
 
 # scrapes Nova Scotia data
 def web_scrape_NS(soup):
@@ -119,8 +118,8 @@ dfSources.to_csv('EnergySources.csv', index = False, header = True)
 dfLoad = pd.DataFrame(columns=['Time','Net Load (MW)', 'Province'])
 dfLoad.to_csv('Energy.csv', index = False, header = True)
 
-for i in range(4):
+for i in range(20):
 	csvWriter()
-	time.sleep(10)
-    
+	time.sleep(300)
+
 print("Done")

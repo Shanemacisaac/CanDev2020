@@ -1,21 +1,51 @@
 Time,Net Load (MW),Province
-10:1, 1534,Newfoundland and Labrador
-10:1,16529,Ontario
-10:1,2441,New Brunswick
-10:1,1740.5,Nova Scotia
-10:1,10115,Alberta
-10:1, 1534,Newfoundland and Labrador
-10:1,16529,Ontario
-10:1,2441,New Brunswick
-10:1,1740.5,Nova Scotia
-10:1,10115,Alberta
-10:1, 1534,Newfoundland and Labrador
-10:1,16615,Ontario
-10:1,2441,New Brunswick
-10:1,1740.5,Nova Scotia
-10:1,10115,Alberta
-10:1, 1534,Newfoundland and Labrador
-10:1,16615,Ontario
-10:1,2441,New Brunswick
-10:1,1740.5,Nova Scotia
-10:1,10114,Alberta
+10:49, 1498,Newfoundland and Labrador
+10:49,16796,Ontario
+10:49,2432,New Brunswick
+10:49,1744.1,Nova Scotia
+10:49,10134,Alberta
+10:54, 1502,Newfoundland and Labrador
+10:54,16802,Ontario
+10:54,2434,New Brunswick
+10:54,1744.6,Nova Scotia
+10:54,10096,Alberta
+10:59, 1497,Newfoundland and Labrador
+10:59,16802,Ontario
+10:59,2435,New Brunswick
+10:59,1746.1,Nova Scotia
+10:59,10119,Alberta
+11:4, 1493,Newfoundland and Labrador
+11:4,16874,Ontario
+11:4,2433,New Brunswick
+11:4,1745.3,Nova Scotia
+11:4,10195,Alberta
+11:9, 1490,Newfoundland and Labrador
+11:9,16874,Ontario
+11:9,2421,New Brunswick
+11:9,1763.7,Nova Scotia
+11:9,10227,Alberta
+11:14, 1493,Newfoundland and Labrador
+11:14,16874,Ontario
+11:14,2421,New Brunswick
+11:14,1757.9,Nova Scotia
+11:14,10246,Alberta
+11:19, 1494,Newfoundland and Labrador
+11:19,17010,Ontario
+11:19,2426,New Brunswick
+11:19,1762.8,Nova Scotia
+11:19,10242,Alberta
+11:24, 1486,Newfoundland and Labrador
+11:24,17010,Ontario
+11:24,2419,New Brunswick
+11:24,1769.0,Nova Scotia
+11:24,10217,Alberta
+11:29, 1482,Newfoundland and Labrador
+11:29,16878,Ontario
+11:29,2414,New Brunswick
+11:29,1769.1,Nova Scotia
+11:29,10217,Alberta
+11:34, 1477,Newfoundland and Labrador
+11:34,16878,Ontario
+11:34,2406,New Brunswick
+11:34,1772.9,Nova Scotia
+11:34,10201,Alberta
